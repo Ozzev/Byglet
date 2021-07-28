@@ -95,3 +95,7 @@ class Bbasics:
                     [c for i in range(4) for c in Bbasics.__STROKE]
                 )
             )
+
+    @staticmethod
+    def circle():
+        pass
